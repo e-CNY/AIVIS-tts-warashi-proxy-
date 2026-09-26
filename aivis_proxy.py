@@ -132,12 +132,12 @@ class TkGUI:
         # 左下角链接1
         link1 = tk.Label(root, text="视频演示", fg="blue", cursor="hand2")
         link1.place(x=15, y=450)
-        link1.bind("<Button-1>", lambda e: self.open_url("https://link1.test"))
+        link1.bind("<Button-1>", lambda e: self.open_url("https://www.bilibili.com/video/BV13YhD6rEmh"))
 
         # 右下角链接2
         link2 = tk.Label(root, text="使用说明", fg="blue", cursor="hand2")
         link2.place(x=540, y=450)
-        link2.bind("<Button-1>", lambda e: self.open_url("https://link2.test"))
+        link2.bind("<Button-1>", lambda e: self.open_url("https://github.com/e-CNY/AIVIS-tts-warashi-proxy-/blob/main/README.md"))
 
     def open_url(self, url):
         import webbrowser

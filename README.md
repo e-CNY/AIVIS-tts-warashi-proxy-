@@ -18,7 +18,7 @@
 6. 双击`create_proxy_venv.bat`安装所需库，双击`aivis_proxy.py`完成参数设置
 7. 双击`start-AivisSpeech.bat`启动软件开始使用
 
-[视频演示](https://www.bilibili.com/video/BV1y6hx6fEfU)
+[视频演示](https://www.bilibili.com/video/BV13YhD6rEmh)
 ---
 
 <a id="english"></a>
@@ -34,4 +34,4 @@ Used for warashi(Open-LLM-VTuber)Live2D avatar desktop AI companion connects Aiv
 6. Double-click `create_proxy_venv.bat` to install the required libraries, and double-click `aivis_proxy.py` to complete parameter setting
 7. Double-click `start-AivisSpeech.bat` to launch the software and start using it.
 
-[Video Demonstration](https://www.bilibili.com/video/BV1y6hx6fEfU)
+[Video Demonstration](https://www.bilibili.com/video/BV13YhD6rEmh)
