@@ -92,7 +92,7 @@ async def fake_sovits_get(
 class TkGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("AIVIS文本转语音代理")
+        self.root.title("AIVIS连接warashi代理")
         self.root.geometry("620x480")
 
         # 参数区
